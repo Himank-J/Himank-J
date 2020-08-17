@@ -14,6 +14,7 @@ I am a 3rd year Computer Science student 📚 at Symbiosis Institute of Technolo
 
 ![mysql](https://user-images.githubusercontent.com/55919214/87274509-88d85080-c4f9-11ea-94c8-3ed052af5d85.png)
 ![psql](https://user-images.githubusercontent.com/55919214/87274532-94c41280-c4f9-11ea-8d2d-92ddda81ee06.png)
+![image](https://user-images.githubusercontent.com/55919214/90379101-e54e0300-e097-11ea-88b8-885f4d13f844.png)
 
 ## 📬How to reach me?
 
