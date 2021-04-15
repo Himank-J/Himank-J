@@ -20,6 +20,6 @@ I am a 3rd year Computer Science student 📚 at Symbiosis Institute of Technolo
 
 ~ Connect with me on [Linkedin](https://www.linkedin.com/in/himank-jain-08b1791a7/) 🤵🏻
 
-~ Follow me on [Instagram](https://www.instagram.com/callme____hj/?hl=en) 
+~ Follow me on [Instagram](https://www.instagram.com/itsme_himank09/?hl=en) 
 
 ~ Shoot Me an [Email](https://github.com/Himank-J) 📧
