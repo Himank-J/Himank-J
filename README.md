@@ -22,13 +22,13 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am Himank 👦🏻 and welcome to my github profile. I am a 3rd year Computer Science student 📚 at Symbiosis Institute of Technology(SIT). I am very passionate towards learning something new in field of Programming.I like to keep myself updated with most futuristic technology which is why I work with variety of programming languages
+### I am Himank 👦🏻 and welcome to my github profile. I am a 3rd year Computer Science student 📚 at Symbiosis Institute of Technology(SIT). I am very passionate towards learning something new in field of Programming. I like to keep myself updated with most futuristic technology and I am always open to grasp knowledge.
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/himank-jain)
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
