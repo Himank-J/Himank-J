@@ -43,7 +43,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himank-j&show_icons=true&locale=en&layout=compacthide_border=true&theme=radical" width="37%" alt="himank-j" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himank-j&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" width="60%" alt="himank-j" /></p>
+
 
 <br/>
 <br/>
