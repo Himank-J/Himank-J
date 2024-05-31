@@ -1,4 +1,5 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
 <p>
   <h1 align="center"><b>Hello there, I'm Himank 👋</b></h1>
 </p>
@@ -8,12 +9,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Himank-J" />
-</p>
-
-<p align="center">
 <br>
-<a href="https://www.instagram.com/callme__hj/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/himank-jain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:himankvjain@gmail.com?subject=Hello%Himank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
@@ -22,11 +18,21 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am Himank 👦🏻 and welcome to my github profile. I am a 3rd year Computer Science student 📚 at Symbiosis Institute of Technology(SIT). I am very passionate towards learning something new in field of Programming. I like to keep myself updated with most futuristic technology and I am always open to grasp knowledge.
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning MERN Stack Development.
+### Hey there! 👋 
+
+As a passionate problem solver, I am dedicated to harnessing the power of technology and data to foster innovation and drive substantial impact. 
+
+Constantly on the learning curve, I fearlessly dive into new technologies, ensuring a dynamic skill set. Proficient in Python, databases, and Azure cloud technologies, I bring a comprehensive understanding of key concepts such as Kubernetes and Docker.
+
+My commitment extends beyond technical proficiency – I strive to contribute uniquely to every project, aiming for a bigger and better outcome. 
+
+I firmly believe in the synergy of innovation and thoughtful application of technology to solve complex challenges. This approach, coupled with my expertise, enables me to make meaningful contributions that align with the broader goals of any endeavor. 
+
+With a mindset geared towards continuous improvement, I am poised to play a pivotal role in shaping and advancing technological landscapes.
+
+- 🌱 I’m currently deep diving into Generative AI by leveraging the power of Langchain and LLMs
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🥅 2024 Goals: Grasp working of Transformers and similar concepts that can be the next life changing break in field of AI 
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/himank-jain)
 - 🧗 I try to: Go beyond and push the bounds
@@ -35,23 +41,19 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+I have hands-on experience with:
 
-<br>
-
-### :zap: Github Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himank-j&show_icons=true&locale=en&layout=compacthide_border=true&theme=radical" width="37%" alt="himank-j" /></p>
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
+- Python
+- Azure Cloud Services
+- LLMs
+- Langchain, Langsmith, Langserve
+- Scikit-learn for Machine Learning
+- Yolo for Object detection
+- Docker
+- Kubernetes
+- FastAPI
+- Langfuse
+- Appsmith
 
 <div align="center"><br/>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
