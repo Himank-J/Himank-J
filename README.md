@@ -1,12 +1,12 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-<p>
-  <h1 align="center"><b>Hello there, I'm Himank 👋</b></h1>
-</p>
+<div align="center">
+  
+# Hello, I'm Himank 👋
 
-<p>
-  <h4 align="center"><b>while( ! (succeed = try() ));</b></h4>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&color=09D325&center=true&vCenter=true&width=435&lines=Senior+Data+Scientist;AI%2FML+Engineer;Scalable+AI+Systems+Engineer;LLM%2FNLP+Practitioner;3.5%2B+Years+Experience)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
 <br>
@@ -20,40 +20,61 @@
 
 ### Hey there! 👋 
 
-As a passionate problem solver, I am dedicated to harnessing the power of technology and data to foster innovation and drive substantial impact. 
+- As a passionate problem solver, I am dedicated to harnessing the power of technology and data to foster innovation and drive substantial impact. 
 
-Constantly on the learning curve, I fearlessly dive into new technologies, ensuring a dynamic skill set. Proficient in Python, databases, and Azure cloud technologies, I bring a comprehensive understanding of key concepts such as Kubernetes and Docker.
+- Constantly on the learning curve, I fearlessly dive into new technologies, ensuring a dynamic skill set. Proficient in Python, databases, and Azure cloud technologies, I bring a comprehensive understanding of key concepts such as Kubernetes and Docker.
 
-My commitment extends beyond technical proficiency – I strive to contribute uniquely to every project, aiming for a bigger and better outcome. 
+- I firmly believe in the synergy of innovation and thoughtful application of technology to solve complex challenges. This approach, coupled with my expertise, enables me to make meaningful contributions that align with the broader goals of any endeavor. 
 
-I firmly believe in the synergy of innovation and thoughtful application of technology to solve complex challenges. This approach, coupled with my expertise, enables me to make meaningful contributions that align with the broader goals of any endeavor. 
+- With a mindset geared towards continuous improvement, I am poised to play a pivotal role in shaping and advancing technological landscapes.
 
-With a mindset geared towards continuous improvement, I am poised to play a pivotal role in shaping and advancing technological landscapes.
+### ⚕️Impact in Healthcare Domain
 
-- 🌱 I’m currently deep diving into Generative AI by leveraging the power of Langchain and LLMs
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2024 Goals: Grasp working of Transformers and similar concepts that can be the next life changing break in field of AI 
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/himank-jain)
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+Currently leading AI initiatives at Bajaj Finserv Health, where I design large-scale ML and LLM systems that automate healthcare claims, detect fraud, and digitize complex unstructured documents.
+
+Over the last few years, I’ve architected and delivered production-grade AI platforms that dramatically improved operational efficiency, reduced losses, and drove automation at scale:
+
+- Designed claims automation system to auto-process OPD & IPD claims at **~25% auto-pay rate**, backed by a claims Co-Pilot that boosts manual processing **productivity by ~50%**.
+- Architected Fraud & Abuse (FWA) engine for document-based health-claim fraud, delivering total verified **savings of ₹14.5M+** through prevention and automated detection across workflows.
+  - Graph databases & graph analytics to detect fraud rings and uncover hidden provider/patient networks.
+  - Document embeddings & similarity search (BM25 + embedding pipelines) for duplicate / near-duplicate detection — production accuracy ~96% for similarity detection.
+  - Document-based pattern analysis and multi-source signal fusion (claims history, partner feeds, provider behavior) to surface anomalous patterns and risk scores.
+- Extensive experience with high-volume, pan-India healthcare datasets — integrating heterogeneous data from hospitals, insurers, TPAs, partner systems, diagnostic reports, OCR-extracted medical documents and historical claim trails to build resilient, production-grade decisioning and audit-ready workflows.
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-I have hands-on experience with:
+<h3 align="left">Technology that enables me to deliver impact:</h3>
 
-- Python
-- Azure Cloud Services
-- LLMs
-- Langchain, Langsmith, Langserve
-- Scikit-learn for Machine Learning
-- Yolo for Object detection
-- Docker
-- Kubernetes
-- FastAPI
-- Langfuse
-- Appsmith
+💻 Programming
+- Python, Java, JavaScript
+
+🧠 Machine Learning & AI
+- Predictive Modeling, Ensemble Methods, Feature Engineering
+- Transformers, LLMs, Embeddings, Multimodal Learning
+- Deep Learning, NLP, Semantic Search
+- Document Understanding, OCR-driven pipelines
+- Fraud detection algorithms (similarity, anomaly detection, graph-based)
+
+🧱 Architecture & System Design
+- Event-driven microservices
+- Large-scale data processing
+- MLOps, CI/CD, containerized AI workloads
+
+⚙️ Tools & Frameworks
+- PyTorch, TensorFlow, Scikit-learn
+- FastAPI, LangChain, KServe
+- Docker, Kubernetes, ArgoCD
+- Kafka, GitHub Actions
+- CLIP, Whisper, YOLO
+
+🗄 Databases & Search
+- Elasticsearch
+- MongoDB
+- SQL
+
+☁️ Cloud
+- Azure
+- AWS
 
 ## 📈 GitHub Contributions
 ![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Himank-J&theme=dark)
